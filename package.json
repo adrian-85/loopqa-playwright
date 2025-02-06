@@ -1,0 +1,17 @@
+{
+  "name": "loopqa-playwright",
+  "version": "1.0.0",
+  "description": "This repository is for the purpose of demonstrating Playwright's data-driven test capabilities for a technical evaluation",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
